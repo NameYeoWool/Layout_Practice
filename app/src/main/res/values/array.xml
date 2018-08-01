@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_item">
+        <item>pc방 1</item>
+        <item>pc방 2</item>
+        <item>pc방 3</item>
+        <item>pc방 4</item>
+        <item>pc방 5</item>
+        <item>pc방 6</item>
+        <item>pc방 7</item>
+        <item>pc방 8</item>
+        <item>pc방 9</item>
+    </string-array>
+</resources>
